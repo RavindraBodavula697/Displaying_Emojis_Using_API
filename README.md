@@ -1,1 +1,1 @@
-# Displaying_Emojis_Using_API
+A simple website that displays a collection of emojis when the "Show Emojis" button is clicked.
